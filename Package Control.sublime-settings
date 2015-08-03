@@ -1,0 +1,48 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"CSS Completions",
+		"CSS Snippets",
+		"Derby",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"Foundation 5 Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"jQueryDocs",
+		"Laravel 4 Artisan",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Bootstrapper Snippets",
+		"Laravel Color Scheme",
+		"Laravel Forms Bootstrap Snippets",
+		"LESS",
+		"Package Control",
+		"Phpcs",
+		"Predawn",
+		"Predawn Monokai",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"Terminal In Packages",
+		"Theme - DefaultPlus",
+		"Tomorrow Color Schemes",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets",
+		"WordPress Developer Resources",
+		"wpseek.com WordPress Developer Assistant"
+	]
+}
